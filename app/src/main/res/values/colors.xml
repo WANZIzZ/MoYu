@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#888888</color>
+    <color name="colorAccent">#607d8b</color>
+
+    <color name="bottom_nav_view_background">#ffffff</color>
+    <color name="bottom_nav_view_text_selected">#000000</color>
+    <color name="bottom_nav_view_text_unselected">#888888</color>
+</resources>
